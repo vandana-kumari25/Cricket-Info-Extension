@@ -1,0 +1,15 @@
+{
+    "name": "Cricket Info",
+    "version": "1.0.0",
+    "description": "Matches related data",
+    "manifest_version": 3,
+    "author": "Vandana Kumari",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "match-info.png"
+    },
+    "icons": {
+        "128": "match-info.png"
+    },
+    "permissions": ["activeTab"]
+}
